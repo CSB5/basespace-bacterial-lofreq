@@ -1,0 +1,2 @@
+./refs contains references that are automatically compiled from a local
+mirror (create_refs.sh) and indexed (index_refs.sh). Folder has to be created manually
