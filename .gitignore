@@ -1,5 +1,5 @@
 *~
-refs
+refs/*fa*
 bin/bwamem_pe.sh
 bin/bwa
 bin/bwa-0.7.10.tar.bz2
