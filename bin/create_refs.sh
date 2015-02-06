@@ -56,3 +56,5 @@ for specdir in $(ls -d $NCBI_GENOMES_DIR/*uid*); do
 		break
 	fi
 done
+
+find $OUT_DIR -name \*_all.fa -exec cat {} \; > $OUT_DIR/all_refs.fa
